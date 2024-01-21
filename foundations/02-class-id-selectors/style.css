@@ -1,13 +1,26 @@
-p {
+.odd-numbers {
   font-family: "Verdana", "DejaV San", "sans-serif";
-  background-color: #EE5783;
+  background-color: #FAA4A4;
 }
 
-.bluenumber {
-  color: #162FCB;
+#numbertwo {
+  color: #3328FF;
   font-size: 36px;
 }
 
 .numberthree {
   font-size: 24px;  
 }
+
+#numberfour {
+  font-size: 24px; /* Deveria estar apenas na classe do número 3 */
+  background-color:  #80FB7F;
+  font-weight: bold;
+}
+
+/*
+  Pontos de melhora:
+  1. antes de olhar a solução, verificar os valores que são utilizado mais de uma vez.
+  2. Tentar usar RGB e HSL para definir cores.
+*/
+
