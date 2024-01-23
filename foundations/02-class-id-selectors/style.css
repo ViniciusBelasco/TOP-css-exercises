@@ -1,4 +1,4 @@
-.odd-numbers {
+p {
   font-family: "Verdana", "DejaV San", "sans-serif";
   background-color: #FAA4A4;
 }
@@ -8,12 +8,11 @@
   font-size: 36px;
 }
 
-.numberthree {
+.numbersize {
   font-size: 24px;  
 }
 
 #numberfour {
-  font-size: 24px; /* Deveria estar apenas na classe do número 3 */
   background-color:  #80FB7F;
   font-weight: bold;
 }
