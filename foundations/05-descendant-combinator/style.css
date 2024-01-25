@@ -1,0 +1,15 @@
+div p {
+  background-color: yellow;
+  color: red;
+  font-size: 20px;
+  text-align: center;
+}
+
+/*
+* with classes this can be write like this
+  container text {
+  background-color: yellow;
+  color: red;
+  font-size: 20px;
+  text-align: center;
+} */
